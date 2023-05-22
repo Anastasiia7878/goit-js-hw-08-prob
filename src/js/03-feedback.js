@@ -38,4 +38,3 @@ function populateTextarea() {
   refs.input.value = savedMessage["email"] || "";
 }
 
-
